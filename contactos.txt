@@ -1,0 +1,18 @@
+
+
+þ Contacto -2:
+  Nombre: Pepe
+  Direccion: Calle_123
+  Telefono: 1234567890
+  Mail: pepe@gmail.com
+  Alias de Telegram: pepeTelegram
+  Usuario de Instagram: pepe_instagram
+
+
+þ Contacto -2:
+  Nombre: Ana
+  Direccion: Calle_456
+  Telefono: 0987654321
+  Mail: ana@gmail.com
+  Alias de Telegram: anaTelegram
+  Usuario de Instagram: ana_instagram
